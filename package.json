@@ -1,0 +1,30 @@
+{
+    "name": "nathanals-vscode-quick-start",
+    "displayName": "VSCode Quick Start by Nathanal",
+    "description": "Extension pack with Nathanals favorite tools",
+    "version": "0.2.0",
+    "publisher": "kingnathanal",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "buianhthang.xml2json",
+        "CoenraadS.bracket-pair-colorizer",
+        "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "GrapeCity.gc-excelviewer",
+        "IBM.XMLLanguageSupport",
+        "mechatroner.rainbow-csv",
+        "ms-mssql.mssql",
+        "ms-vscode.csharp",
+        "naco-siren.gradle-language",
+        "redhat.java",
+        "xabikos.JavaScriptSnippets",
+        "yzhang.markdown-all-in-one",
+        "emilast.logfilehighlighter"
+    ]
+}
